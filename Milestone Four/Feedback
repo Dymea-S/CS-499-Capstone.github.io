@@ -1,0 +1,15 @@
+Instructor Feedback and Reflection
+
+My instructor’s feedback confirmed that the SQLite persistence enhancement successfully transformed the graphics application from an in-memory 
+system into one that can save, retrieve, update, and delete scenes. The enhancement demonstrated my understanding of relational database design, 
+normalization, foreign keys, constraints, indexing, prepared statements, transactions, and defensive programming. My explanation also clearly 
+connected the database work to Course Outcomes Three, Four, and Five.
+
+One area I can strengthen is my analysis of transaction management and concurrent database access. Although I explained my decision to use SQLite 
+with full-mutex mode and a busy timeout, I can expand the discussion to address SQLite’s locking behavior when multiple processes attempt to modify 
+the same scene or database. The current design is appropriate for a single-user desktop application, but a future multi-user version might require 
+stronger concurrency controls or a client-server database system.
+
+The feedback also recognized my explanation of specific design decisions, including storing the transformation matrix in individual numeric columns 
+instead of using a text value or binary blob. Continuing to explain why I selected a particular design—not only what I implemented—will help my 
+ePortfolio demonstrate stronger architectural reasoning and engineering judgment.
