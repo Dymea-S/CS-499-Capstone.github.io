@@ -1,0 +1,13 @@
+Instructor Feedback and Reflection
+
+My instructor’s feedback confirmed that my algorithms and data structures enhancement demonstrated strong algorithmic reasoning. The hybrid vector 
+and unordered_map design provided ordered traversal and efficient object lookup, while ray casting, AABB intersection testing, and nearest-object 
+selection added meaningful interaction to the original scene.
+
+The feedback also recognized my explanation of the project’s complexity trade-offs. I selected an O(n) search because it is simple, maintainable, 
+and appropriate for a scene containing only five selectable objects. A more advanced spatial structure would introduce unnecessary complexity at 
+the project’s current scale.
+
+My reflection effectively connected the enhancement to coordinate transformations, implementation challenges, testing, and long-term maintainability.
+The eight passing test cases provided additional evidence that the algorithms and data structures functioned correctly when tested independently of 
+the OpenGL graphics runtime.
