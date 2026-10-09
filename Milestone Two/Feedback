@@ -1,0 +1,12 @@
+## Instructor Feedback and Reflection
+
+My instructor’s feedback confirmed that my Milestone Two narrative clearly explained the original 3D graphics artifact, the improvements 
+I implemented, and the enhancement’s connection to software design and engineering. My strongest areas included resource management, defensive 
+validation, data-driven asset configuration, error handling, and shader improvements.
+
+The feedback also recognized my problem-solving process, particularly how I traced rendering issues across the application code, materials, textures,
+and shaders. My decision to improve the existing application incrementally instead of rewriting it demonstrated sound engineering judgment and 
+allowed me to preserve working functionality while strengthening the program’s design.
+
+For the final version, I will complete the Visual Studio build and runtime testing, address any remaining issues, and incorporate the instructor’s 
+feedback before publishing the finalized enhancement to my ePortfolio.
